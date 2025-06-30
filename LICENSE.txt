@@ -1,0 +1,56 @@
+UpJavaAI Eclipse Plugin
+End-User License Agreement (EULA)
+Developed by Cognexa AI LLC
+
+Last updated: June 30, 2025
+
+1. Definitions
+   1. “Licensor” means Cognexa AI LLC, owner of the UpJavaAI Eclipse Plugin.
+   2. “Licensee” means you, the individual or entity installing or using the Plugin.
+   3. “Plugin” means the UpJavaAI Eclipse Plugin, including all binary files (.jar), documentation, and related resources.
+
+2. Grant of License
+   Subject to your compliance with this EULA, Licensor hereby grants Licensee a limited, non-exclusive, non-transferable, revocable license to:
+   - Install and execute one copy of the Plugin within a single installation of the Eclipse IDE;
+   - Receive any updates, patches, or new releases for the Plugin during the support period (if any).
+
+3. License Restrictions
+   Licensee shall not:
+   1. Redistribute, sublicense, rent, lease, or sell the Plugin or any part thereof;
+   2. Decompile, reverse-engineer, disassemble, or otherwise attempt to derive the Plugin’s source code;
+   3. Modify, adapt, translate, or create derivative works based on the Plugin;
+   4. Remove, alter, or obscure any copyright, trademark, or other proprietary notices on or within the Plugin;
+   5. Use the Plugin to provide services to third parties (e.g., “plugin-as-a-service”) without a separate commercial agreement.
+
+4. Fees and Payment
+   - Unless otherwise agreed in writing, Licensee may download and install the Plugin at no charge for evaluation.
+   - Commercial or production use may require purchase of a license key or subscription. Licensing fees and payment terms are governed by a separate Order Form or invoice.
+
+5. Support and Maintenance
+   - Licensor may, at its sole discretion, provide support, updates, or maintenance for the Plugin. Any such support is subject to Licensor’s then-current policies and may be withdrawn at any time.
+   - No implied obligation to furnish upgrades or new versions is created by this EULA.
+
+6. Term and Termination
+   1. Term: This EULA takes effect upon the first installation or use of the Plugin and continues until terminated.
+   2. Termination by Licensee: You may terminate this EULA by deleting all copies of the Plugin.
+   3. Termination by Licensor: Licensor may terminate this EULA immediately if you fail to comply with any term herein.
+   4. Effect of Termination: Upon termination, all rights granted under this EULA cease and Licensee must uninstall and destroy all copies of the Plugin.
+
+7. Proprietary Rights
+   - The Plugin is licensed, not sold. Title, ownership rights, and intellectual property rights remain with Licensor.
+   - Licensor retains all rights not expressly granted herein.
+
+8. Warranty Disclaimer
+   TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE PLUGIN IS PROVIDED “AS-IS” AND “WITH ALL FAULTS,” AND LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WITHOUT LIMITATION ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+9. Limitation of Liability
+   IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, WITHOUT LIMITATION, LOST PROFITS, DATA, OR BUSINESS INTERRUPTION), ARISING OUT OF OR RELATED TO THIS EULA OR THE USE OF OR INABILITY TO USE THE PLUGIN, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. LICENSOR’S TOTAL AGGREGATE LIABILITY UNDER ANY CIRCUMSTANCE SHALL NOT EXCEED THE AMOUNT PAID BY LICENSEE FOR THE PLUGIN (IF ANY).
+
+10. Governing Law & Dispute Resolution
+   - This EULA shall be governed by and construed in accordance with the laws of the State of Texas, U.S.A., without regard to its conflict-of-laws principles.
+   - Any legal action or proceeding arising under this EULA shall be brought exclusively in the state or federal courts located in Travis County, Texas.
+
+11. Entire Agreement
+   This EULA constitutes the entire agreement between Licensor and Licensee concerning the Plugin, superseding all prior or contemporaneous agreements, understandings, and communications. No amendment to this EULA will be effective unless in writing and signed by both parties.
+
+By installing, copying, or using the UpJavaAI Eclipse Plugin, you acknowledge that you have read, understood, and agree to be bound by the terms of this EULA.
